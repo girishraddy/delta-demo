@@ -1,2 +1,2 @@
 # delta-demo
-it;s my first demo
+It's my first demo.
